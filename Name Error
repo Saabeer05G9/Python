@@ -1,0 +1,7 @@
+x=18
+try:
+  print(x)
+except NameError:
+  print("Variable x is not defined")
+finally:
+  print("You have Wittnessed the Name Error")
