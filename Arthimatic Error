@@ -6,4 +6,4 @@ except:
 else:
   print("Madhu")
 finally:
-  print("The 'try except' is finished")
+  print("Thus You Witnessed the Arthimatic Error")
