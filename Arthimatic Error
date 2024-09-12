@@ -4,6 +4,6 @@ try:
 except:
   print("Something went wrong")
 else:
-  print("SALAAR")
+  print("Code Executed without Errors")
 finally:
   print("Thus You Witnessed the Arthimatic Error")
