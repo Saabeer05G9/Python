@@ -1,0 +1,3 @@
+list = "SALAAR DEVARATHA RAISAR"
+index = "1"
+print(list[index])
